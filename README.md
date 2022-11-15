@@ -1,6 +1,6 @@
 # React Travel Advisor API project
 
-## Users are able to search restaurant, hotel, attractions all over the world using google map
+## Users are able to search restaurants, hotels, attractions all over the world using google map
 
 ## Live demo
 https://creative-cassata-e6a5e0.netlify.app/
