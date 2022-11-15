@@ -3,7 +3,7 @@
 ## Users are able to search restaurants, hotels, attractions all over the world using google map
 
 ## Live demo
-https://creative-cassata-e6a5e0.netlify.app/
+https://travel-advisor-rana.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
